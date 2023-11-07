@@ -1,3 +1,2 @@
-# Microwave
- microwave_model
+# Microwave device and antenna (antenna array)
 В данном репозитории будут указаны различные модели СВЧ-устройств. Все модели построенны в свободное время.
