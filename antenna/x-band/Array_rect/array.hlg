@@ -1,0 +1,102 @@
+--------------------------------------------------------------------------------
+Translator Name    : Spatial InterOp Connect ( Version : 2022 1.0.1 )
+System Name        : Windows_NT
+Machine Name       : DESKTOP-LL8LPUL
+User Name          : RUV
+Source System      : ACIS
+Destination System : STEP
+Input File         : C:\Users\RUV\Documents\GitHub\Microwave\antenna\x-band\array.sat
+Output File        : C:\Users\RUV\Documents\GitHub\Microwave\antenna\x-band\array.stp
+Start Time         : Wed Feb  7 20:35:42 2024
+
+--------------------------------------------------------------------------------
+Message : === Translation Options ===
+Message : IGES.Writer.TranslateSolidSheets : true
+Message : IGES.TrimCurveWritePreference  : 3
+Message : IGES.Writer.ConvertAnalyticalSurfacesAndCurvesToSpline : false
+Message : ProgramName : CST ACIS InterOp Converter 2021
+Message : AuthorName : RUV
+Message : ===========================
+-------------------------Source File Header Information-------------------------
+Modification Date        : 7 Feb 2024
+File Name                : array.sat
+Organization             : CST MICROWAVE STUDIO
+Version                  : 3200
+Units                    : MILLIMETER
+Tolerance                : 0.000001
+Document Type            : Part
+Format Type              : ACIS
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+Source Document Preprocessing Result : Success
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+Target Document Preprocessing Result : Success
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+Start BRep
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+BRep Source Representation Preprocessing Result : Success
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+BRep Target Representation Preprocessing Result : Success
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+BRep Source Representation Postprocessing Result : Success
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+BRep Target Representation Postprocessing Result : Success
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+End BRep
+------------------------Representation Conversion Summary-----------------------
+No. of Solid Bodies                       :    752
+No. of Wire Bodies                        :    0
+No. of Curve Sets                         :    0
+No. of Geometric Sets                     :    0
+No. of Sheet Bodies                       :    16
+--------------------------------------------------------------------------------
+BRep Conversion Result : Success
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+Start DocumentFeature
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+DocumentFeature Source Representation Preprocessing Result : No Entity to Translate
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+DocumentFeature Target Representation Preprocessing Result : Success
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+DocumentFeature Source Representation Postprocessing Result : Success
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+DocumentFeature Target Representation Postprocessing Result : Success
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+End DocumentFeature
+------------------------Representation Conversion Summary-----------------------
+No. of Selection Sets                     :    0
+--------------------------------------------------------------------------------
+DocumentFeature Conversion Result : No Entity to Translate
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+Target Document Postprocessing Result : Success
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+Target Document Postprocessing Result : Success
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+---------------------------Document Conversion Summary--------------------------
+No. of Items of DocumentFeature Representation :    0
+No. of Items of BRep Representation            :    768
+--------------------------------------------------------------------------------
+Output File "C:\Users\RUV\Documents\GitHub\Microwave\antenna\x-band\array.stp" is Successfully Written
+--------------------------------------------------------------------------------
+Finish Time : Wed Feb  7 20:35:43 2024
+
+--------------------------------------------------------------------------------
+Translation Result : Success
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
